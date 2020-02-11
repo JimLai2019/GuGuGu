@@ -1,0 +1,14 @@
+Dealing.xcworkspace
+xcuserdata/
+.idea/
+.DS_Store
+
+#CocoaPods
+Pods/
+!Podfile
+Podfile.lock
+
+#Carthage
+Carthage/
+!Cartfile
+!Cartfile.resolved%
